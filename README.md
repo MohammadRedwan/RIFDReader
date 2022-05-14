@@ -1,7 +1,7 @@
 # RIFDReader
 
 
-
+Project was created and written by Mohammed and Hassan
 
 Main Activity can be found in the following path:
 
@@ -15,4 +15,3 @@ Manifest can be found in the following path:
 
 https://github.com/MohammadRedwan/RIFDReader/blob/main/app/src/main/AndroidManifest.xml
 
-The buildTagViews, readFromIntent, and onNewIntent functions were copied and added to the project.
