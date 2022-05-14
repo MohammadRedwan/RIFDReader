@@ -1,5 +1,6 @@
 # RIFDReader
 
+RFID emulation application using NFC
 
 Project was created and written by Mohammed and Hassan
 
